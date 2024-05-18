@@ -1,0 +1,12 @@
+.jessica{
+    color: yellow;
+    font-size: 50px;
+}
+
+
+.container{
+    display: flex;
+}
+.left>h3{
+    background-color: brown;
+}
